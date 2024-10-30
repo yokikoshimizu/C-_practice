@@ -1,0 +1,14 @@
+C:\Users\yokiko shimizu\source\repos\JankenGame\JankenGame\bin\Debug\net8.0\JankenGame.exe
+C:\Users\yokiko shimizu\source\repos\JankenGame\JankenGame\bin\Debug\net8.0\JankenGame.deps.json
+C:\Users\yokiko shimizu\source\repos\JankenGame\JankenGame\bin\Debug\net8.0\JankenGame.runtimeconfig.json
+C:\Users\yokiko shimizu\source\repos\JankenGame\JankenGame\bin\Debug\net8.0\JankenGame.dll
+C:\Users\yokiko shimizu\source\repos\JankenGame\JankenGame\bin\Debug\net8.0\JankenGame.pdb
+C:\Users\yokiko shimizu\source\repos\JankenGame\JankenGame\obj\Debug\net8.0\JankenGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yokiko shimizu\source\repos\JankenGame\JankenGame\obj\Debug\net8.0\JankenGame.AssemblyInfoInputs.cache
+C:\Users\yokiko shimizu\source\repos\JankenGame\JankenGame\obj\Debug\net8.0\JankenGame.AssemblyInfo.cs
+C:\Users\yokiko shimizu\source\repos\JankenGame\JankenGame\obj\Debug\net8.0\JankenGame.csproj.CoreCompileInputs.cache
+C:\Users\yokiko shimizu\source\repos\JankenGame\JankenGame\obj\Debug\net8.0\JankenGame.dll
+C:\Users\yokiko shimizu\source\repos\JankenGame\JankenGame\obj\Debug\net8.0\refint\JankenGame.dll
+C:\Users\yokiko shimizu\source\repos\JankenGame\JankenGame\obj\Debug\net8.0\JankenGame.pdb
+C:\Users\yokiko shimizu\source\repos\JankenGame\JankenGame\obj\Debug\net8.0\JankenGame.genruntimeconfig.cache
+C:\Users\yokiko shimizu\source\repos\JankenGame\JankenGame\obj\Debug\net8.0\ref\JankenGame.dll
